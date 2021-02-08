@@ -1,1 +1,1 @@
-##I WILL BE UPDATING THIS WHENEVER I GET A CHANCE BUT FOR NOW IT HAS AN PROP OFFSET MANAGER ##
+I'll be updating this whenever I get a chance. At the moment its essnetially bare bones. It has a menu to offset props and attach them to your character so you dont have to guess anymore. Once I have time, and ideas of what to add ill add more to it.
