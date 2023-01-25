@@ -1,1 +1,15 @@
-I'll be updating this whenever I get a chance. At the moment its essnetially bare bones. It has a menu to offset props and attach them to your character so you dont have to guess anymore. Once I have time, and ideas of what to add ill add more to it.
+# FiveM Devtools
+
+This tool is designed to assist with your fivem development work.
+
+## Features
+- Offset props to match your character's proportions
+- Attach props to your character with ease
+- Bare bones menu for quick use
+
+## Upcoming Features
+- Additional options and customization 
+- More intuitive menu design
+
+## Note
+This tool is a work in progress and updates will be made as time and ideas permit.
